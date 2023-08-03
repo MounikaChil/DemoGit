@@ -1,4 +1,5 @@
 Linux Commands
 Git
 GitHub
-Sql
+Gitbash
+GitLab
